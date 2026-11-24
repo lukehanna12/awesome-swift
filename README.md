@@ -271,7 +271,7 @@ In parternship with:
 * [ReduxUI](https://github.com/gre4ixin/ReduxUI) - Redux framework for easy use with SwiftUI.
 * [SimplexArchitecture](https://github.com/Ryu0118/swiftui-simplex-architecture) - A Simple architecture that decouples state changes from SwiftUI's View
 * [Spin](https://github.com/Spinners/Spin.Swift) - Provides a versatile Feedback Loop implementation working with RxSwift, ReactiveSwift and Combine.
-* [StateViewController](https://github.com/davidask/StateViewController) - Stateful UIVIewController composition — the MVC cure for Massive View Controllers.
+* [StateViewController](https://github.com/davidask/StateViewController) - Stateful UIVIewController composition - the MVC cure for Massive View Controllers.
 * [SwiftUI Atom Properties](https://github.com/ra1028/swiftui-atom-properties) - A Reactive Data-Binding and Dependency Injection Library for SwiftUI x Concurrency.
 * [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
 * [Viperit](https://github.com/ferranabello/Viperit) - Viper Framework for iOS.

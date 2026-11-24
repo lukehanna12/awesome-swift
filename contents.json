@@ -7719,7 +7719,7 @@
     {
       "title":"StateViewController",
       "category":"patterns",
-      "description":"Stateful UIVIewController composition — the MVC cure for Massive View Controllers.",
+      "description":"Stateful UIVIewController composition - the MVC cure for Massive View Controllers.",
       "homepage":"https://github.com/davidask/StateViewController"
     },
     {
